@@ -22,4 +22,4 @@ Evaluating employee performance accurately helps organizations retain talent, op
 ## ⚙️ How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/009manish/employee-performance-prediction.git](https://github.com/009manish/employee-performance-prediction.git)
+   git clone https://github.com/009manish/employee-performance-prediction.git
